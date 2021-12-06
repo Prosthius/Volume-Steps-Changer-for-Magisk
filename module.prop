@@ -3,5 +3,5 @@ name=Volume step changer
 version=v0.2
 versionCode=1
 author=Wacko1805, RikuAzhurlar, Prosthius
-description=Doubles media volume steps from 15 to 30.
+description=Doubles media volume steps from 15 to 30 and volume call steps from 7 to 14.
 template=4
