@@ -1,10 +1,9 @@
 # Volume steps changer for magisk
 ___
 ## What is this mod? 
-this is just a simple mod that allows you to change the volume steps of your device.
-inspired by mods such as the xposed volume steps+ mod and custom roms alike i thought id give magisk a spin after being out of the android development scene for a while.
+It doubles the media volume steps from 15 to 30 and call volume steps from 7 to 14.
+Inspired by mods such as the xposed volume steps+ mod and custom roms alike I thought I'd give magisk a spin after being out of the android development scene for a while.
 
-Currently this mod changes the in call volume steps to 14 (android default: 7) and the media volume steps to 30 (android default: 15), im currently working on a way for users to set the amount. codes almost done with that and after that i will attempt an aroma installer for ease of use
 ___
 
 ## How does it work? 
@@ -25,4 +24,3 @@ Flash the zip in magisk module installer.
 # FAQ
 + __will this work on X device?__ 
    Since this just makes build.prop edits that every android should accept because of the code to accept theese is in the [AudioService.java](https://android.googlesource.com/platform/frameworks/base/+/master/services/core/java/com/android/server/audio/AudioService.java#624)
-   
