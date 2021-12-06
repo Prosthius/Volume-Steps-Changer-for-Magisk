@@ -3,5 +3,5 @@ name=Volume step changer
 version=v0.1
 versionCode=1
 author=Wacko1805, RikuAzhurlar
-description=Changes the amount of presses to get to full media volume.
+description=Doubles media volume steps from 15 to 30.
 template=4
