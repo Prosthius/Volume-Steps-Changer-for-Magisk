@@ -1,7 +1,7 @@
 id=VolumeSteps
 name=Volume step changer
-version=v0.1
+version=v0.2
 versionCode=1
-author=Wacko1805, RikuAzhurlar
+author=Wacko1805, RikuAzhurlar, Prosthius
 description=Doubles media volume steps from 15 to 30.
 template=4
